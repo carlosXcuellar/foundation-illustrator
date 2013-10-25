@@ -5,4 +5,4 @@ Foundation goodies for Adobe Illustrator: assets library, character and paragrap
 
 INSTALLATION
 ------------
-Open foundation-grid.ai in Illustrator and then save as template for later use
+Open foundation-grid.ai and foundation-assets.ai in Illustrator and then save as template for later use
